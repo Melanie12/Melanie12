@@ -3,10 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JavaScript on FreeCodeCamp and Data Science on kaggle.
-- 👯 I am currently a Data & AI PM and I am a former Growth Manager for a Devtool. 
-- 🤔 I’m looking for help with understanding algorithms. Fortunately, I have a great buddy and teacher.
-- 💬 Ask me about Growth, startups, marketing.
+- 🌱 Learning Python and migrating to OSS and/or self-hosted apps.
+- 👯 Product Manager in an AI company. Former Growth Manager for a dev tool.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I practice Thai Boxing and Crossfit.
+- ⚡ I practice Thai Boxing and Crossfit. I'm Learning Japanese and a member of my local chess club.
 
