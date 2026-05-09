@@ -10,4 +10,4 @@ Here are some facts about me:
 - 💙 Linux and OSS User
 
 
-![Roadmap](https://roadmap.sh/embed/u/melanie?theme=dark)
+![Roadmap](https://roadmap.sh/embed/u/melanie/p?theme=dark&width=600&v=1)
